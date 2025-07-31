@@ -1,5 +1,3 @@
-# doc-R
-
 # Comprehensive R Programming Reference Guide
 
 ## Table of Contents
